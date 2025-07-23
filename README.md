@@ -16,4 +16,6 @@ Unizip to obtain the files:
 - emergence.csv
 - YES_NO_questions.xlsx
 
-The notebooks in this repository can then be used to generate the figures in the manuscript. 
+in the directory 'BacterialPathogensData'.
+
+The IPython notebooks image_generation_clusters.ipynb, and image_generation_scatter.ipynb in this repository can then be used to generate the figures in the manuscript. 
